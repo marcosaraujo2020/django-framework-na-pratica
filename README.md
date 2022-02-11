@@ -1,1 +1,1 @@
-#Curso Django Framework na prática
+# Curso Django Framework na prática
